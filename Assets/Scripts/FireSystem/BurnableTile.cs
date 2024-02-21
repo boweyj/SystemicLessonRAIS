@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BurnableTile : BurnableBase, EmissionReceiver, Burnable, Killable
+public class BurnableTile : BurnableBase
 {
     private Color baseColour;
 
